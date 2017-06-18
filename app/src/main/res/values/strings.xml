@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Explore Singapore</string>
+    <string name="image_view_cd_place">Place image</string>
+
+    <string name="topic_Attractions">Attractions</string>
+    <string name="topic_dine">Dine</string>
+    <string name="topic_shop">Shop</string>
+    <string name="topic_stay">Stay</string>
+
+    <string-array name="topics">
+        <item>@string/topic_Attractions</item>
+        <item>@string/topic_dine</item>
+        <item>@string/topic_shop</item>
+        <item>@string/topic_stay</item>
+    </string-array>
+
+    <!-- See & Do places -->
+    <string name="location_universal_studios">Universal Studios</string>
+    <string name="location_universal_studios_desc">One of its kind theme park in asia</string>
+    <string name="location_sea_aquarium">Sea_aquarium</string>
+    <string name="location_sea_aquarium_desc">An underwater tunnel with a sea of marine life swimming above and around you.</string>
+    <string name="location_marina_skypark">Marina bay sands Skypark</string>
+    <string name="location_marina_skypark_desc">SkyPark offers a taste of the highlife by viewing Singapore</string>
+    <string name="location_gardens_by_the_bay">Gardens by the Bay</string>
+    <string name="loc_gardens_by_the_bay_desc">This sprawling garden in the city provides mesmerising waterfront views across three gardens, spanning over 101 hectares of reclaimed land.</string>
+    <string name="location_night_safari">Night Safari</string>
+    <string name="location_night_safari_desc">Head to the Night Safari for an after dark visit to the weird and wonderful creatures of the night</string>
+    <string name="location_jurong_bird_park">Jurong Bird Park</string>
+    <string name="location_jurong_bird_park_desc">Enjoy close interactions with a kaleidoscope of birds at feeding sessions and be tickled by their show-stopping antics in thrilling bird shows.</string>
+
+    <!-- Dine places -->
+    <string name="location_summer_pavillion">Summer Pavilion</string>
+    <string name="location_summer_pavillion_desc">One Michelin Star Summer Pavilion offers an intimate and sophisticated Cantonese dining experience.</string>
+    <string name="location_crystal_jade_golden_palace">Crystal Jade Golden Palace</string>
+    <string name="location_crystal_jade_golden_palace_desc">Serves refined Chinese food with contemporary techniques and elegant surroundings in Paragon in Orchard, Singapore</string>
+    <string name="location_equinox"> Equinox</string>
+    <string name="location_equinox_desc"> Offers contemporary European cuisine and city panoramas</string>
+    <string name="location_song_of_india">THE SONG OF INDIA</string>
+    <string name="location_song_of_india_desc">Solid, Indian fine dining in Singapore</string>
+    <string name="location_garibaldi">Garibaldi</string>
+    <string name="location_garibaldi_desc">The best Italian restaurant in Singapore,</string>
+    <string name="location_cut_restaurant">Cut Restaurant</string>
+    <string name="location_cut_desc">Celebrity chef\'s American steakhouse with a sleek bar and lounge</string>
+
+    <!-- Shop places -->
+    <string name="location_suntec_city">Suntec City</string>
+    <string name="location_suntec_city_desc">Suntec City dazzles with a curated mix of retail stores comprising of high street fashion, lifestyle.</string>
+    <string name="location_orchard_road">Orchard Road</string>
+    <string name="location_orchard_road_desc">Orchard Road, a 2.2 kilometre-long boulevard, is the retail and entertainment hub of Singapore</string>
+    <string name="location_shopees">The Shoppes</string>
+    <string name="location_shopees_desc">The Shoppes at Marina Bay Sands(R) is one of Singapore\'s largest luxury shopping malls</string>
+    <string name="location_Vivocity">Vivocity</string>
+    <string name="location_vivocity_desc">VivoCity is the largest shopping mall in Singapore.</string>
+    <string name="location_takashimaya">Takashimaya</string>
+    <string name="location_takashimaya_desc">Most famous Japanese department store on Orchard Rd delivering high quality and exclusive designer fashion</string>
+    <string name="location_bugis">Bugis street</string>
+    <string name="location_bugis_desc">With shops from Bugis Street and beyond, you are spoiled for choice</string>
+
+    <!-- Stay places -->
+    <string name="location_raffles_hotel">Raffles Hotel</string>
+    <string name="location_raffles_hotel_desc">Raffles Hotel is a colonial-style luxury hotel </string>
+    <string name="location_pan_pacific">Pan Pacific Hotel</string>
+    <string name="location_pan_pacific_desc">The 5-star Pan Pacific Singapore provides direct access to Marina Square Mall and Suntec Convention Centre.</string>
+    <string name="location_ritz_carlton">Ritz-Carlton</string>
+    <string name="location_ritz_carlton_desc">The Ritz-Carlton, Millenia Singapore is a 5-minute walk from the Singapore Flyer and Marina Square Shopping </string>
+    <string name="location_sheraton_towers">Sheraton Towers</string>
+    <string name="location_sheraton_towers_desc">It features an outdoor pool, pampering spa treatments and a 24-hour fitness centre. Complimentary WiFi access is available at the lobby daily.</string>
+    <string name="location_holiday_inn">Holiday Inn express</string>
+    <string name="place_hilton_garden_inn_desc">In the heart of the shopping district, the Holiday Inn Express Singapore Orchard Road features modern, air-conditioned rooms with free Wi-Fi.</string>
+    <string name="location_holiday_inn_desc">Hilton Singapore </string>
+    <string name="location_hilton_desc">Near the city center.Shopping, restaurants and bars nearby.Easily accessible by car.Near public transit and the train station</string>
+
+</resources>
